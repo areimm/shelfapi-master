@@ -1,0 +1,20 @@
+[
+    {
+        "date": "2019-01-01",
+        "room": "A",
+        "data": [
+            {
+                "user": "John Doe",
+                "from": "09:00",
+                "message": {
+                    "text": "Hello World",
+                    "objects": [
+                        {
+                            "objectid": 1
+                        }
+                    ]
+                }
+            }
+        ]
+    }
+]
